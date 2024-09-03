@@ -46,7 +46,6 @@ function HomePage() {
   );
 }
 
-
 export default function App() {
   return (
     <NavigationContainer>
